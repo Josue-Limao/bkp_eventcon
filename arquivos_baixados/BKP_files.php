@@ -28,7 +28,7 @@
 // ---------------------------------------------------------------------------------
 
 
-ini_set('max_execution_time', 18000); //18000 seconds = 5 Hora (60*60*(hora))
+ini_set('max_execution_time', 7200); //7200 seconds = 2 Hora (60*60*(hora))
 
 
 
@@ -42,7 +42,7 @@ $hoje = date("Y-m-d");
 //----------------------------------------------------- SETANDO O BANCO ---------------------------------------------------------
 
 $mysqlUserName      = "eventc01";
-$mysqlPassword      = "doZ3n52F2e";
+$mysqlPassword      = "&JoFO6c@(51@";
 $mysqlHostName      = "";
 $DbName             = "eventc01_bd";
 $bkp_name           = "Inscritos_congresso.sql";
@@ -54,7 +54,7 @@ Export_Database($mysqlHostName,$mysqlUserName,$mysqlPassword,$DbName,$bkp_name, 
 //----------------------------------------------------- SETANDO O BANCO ---------------------------------------------------------
 
 $mysqlUserName      = "eventc01";
-$mysqlPassword      = "doZ3n52F2e";
+$mysqlPassword      = "&JoFO6c@(51@";
 $mysqlHostName      = "";
 $DbName             = "eventc01_submissao";
 $bkp_name           = "Submissao_cadastro.sql";
