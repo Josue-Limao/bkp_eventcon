@@ -42,7 +42,7 @@ $hoje = date("Y-m-d");
 //----------------------------------------------------- SETANDO O BANCO ---------------------------------------------------------
 
 $mysqlUserName      = "eventc01";
-$mysqlPassword      = "&JoFO6c@(51@";
+$mysqlPassword      = "nan45leite";
 $mysqlHostName      = "";
 $DbName             = "eventc01_bd";
 $bkp_name           = "Inscritos_congresso.sql";
@@ -54,7 +54,7 @@ Export_Database($mysqlHostName,$mysqlUserName,$mysqlPassword,$DbName,$bkp_name, 
 //----------------------------------------------------- SETANDO O BANCO ---------------------------------------------------------
 
 $mysqlUserName      = "eventc01";
-$mysqlPassword      = "&JoFO6c@(51@";
+$mysqlPassword      = "nan45leite";
 $mysqlHostName      = "";
 $DbName             = "eventc01_submissao";
 $bkp_name           = "Submissao_cadastro.sql";
